@@ -1,0 +1,21 @@
+{
+  "name": "homestayy",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000O\u0000M\u0000E\u0000S\u0000T\u0000A\u0000Y\u0000Y\u0000Y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atpt0/HOMESTAYYY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/atpt0/HOMESTAYYY/issues"
+  },
+  "homepage": "https://github.com/atpt0/HOMESTAYYY#readme"
+}
